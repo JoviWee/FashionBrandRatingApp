@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Fashion Brand Rating App</string>
+    <string name="title_activity_main" />
+    <string name="title_activity_second" />
+    <string name="title_activity_third" />
+</resources>
